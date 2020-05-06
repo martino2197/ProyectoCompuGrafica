@@ -1,0 +1,205 @@
+newmtl ArmFBXASC195FBXASC161rioSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.03 0.00
+Ns 23.00
+newmtl ArmFBXASC195FBXASC161rioSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl BookFBXASC046002SG
+illum 4
+Kd 0.05 0.04 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.20
+Ns 23.00
+newmtl BookFBXASC046004SG
+illum 4
+Kd 0.80 0.62 0.09
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.16 0.02
+Ns 23.00
+newmtl BookSG
+illum 4
+Kd 0.80 0.05 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.01 0.03
+Ns 23.00
+newmtl CamaFBXASC032EstrutFBXASC046SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl ChFBXASC195FBXASC163oSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 2.00
+newmtl ColchaSG
+illum 4
+Kd 0.43 0.80 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.20 0.09
+Ns 34.00
+newmtl Corr_PortaSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 28.22
+newmtl EscadaFBXASC032CamaSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl Janela_leftSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 62.00
+newmtl MaFBXASC195FBXASC167aneta_ArmFBXASC195FBXASC161rioSG
+illum 4
+Kd 0.32 0.19 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.05 0.00
+Ns 31.68
+newmtl MesaSG1
+illum 4
+Kd 0.23 0.53 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.13 0.03
+Ns 23.00
+newmtl MesaSG2
+illum 4
+Kd 0.29 0.29 0.76
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.07 0.19
+Ns 23.00
+newmtl PCSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.19 0.19 0.19
+Ns 15.83
+newmtl ParedeFBXASC032LeftSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl ParedeFBXASC032TopSG
+illum 4
+Kd 0.17 0.01 0.96
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.00 0.24
+Ns 2.00
+newmtl ParedeFBXASC032TopSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.11 0.21
+Ns 2.00
+newmtl RadioSG
+illum 4
+Kd 0.40 0.34 0.44
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.08 0.11
+Ns 35.27
+newmtl TVSG
+illum 4
+Kd 0.34 0.09 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl TelaFBXASC032tvSG
+illum 4
+Kd 0.83 0.62 0.22
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.42 0.31 0.11
+Ns 98.00
+newmtl TetoSG
+illum 4
+Kd 0.06 0.06 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.02
+Ns 34.00
+newmtl TetoSG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl colchFBXASC195FBXASC163oSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Azul.png
+Ni 1.00
