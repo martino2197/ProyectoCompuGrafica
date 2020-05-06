@@ -1,0 +1,9 @@
+﻿  MainProyecto.cpp
+c:\users\luis martin\videos\desarrollo\compgrafica\macedanazarioluismartin_proyecto\proyecto\proyecto\mainproyecto.cpp(554): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\luis martin\videos\desarrollo\compgrafica\macedanazarioluismartin_proyecto\proyecto\proyecto\mainproyecto.cpp(1396): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\luis martin\videos\desarrollo\compgrafica\macedanazarioluismartin_proyecto\proyecto\proyecto\mainproyecto.cpp(1397): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\luis martin\videos\desarrollo\compgrafica\macedanazarioluismartin_proyecto\proyecto\proyecto\mainproyecto.cpp(1401): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\luis martin\videos\desarrollo\compgrafica\macedanazarioluismartin_proyecto\proyecto\proyecto\mainproyecto.cpp(1402): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\luis martin\videos\desarrollo\compgrafica\macedanazarioluismartin_proyecto\proyecto\proyecto\mainproyecto.cpp(1404): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\luis martin\videos\desarrollo\compgrafica\macedanazarioluismartin_proyecto\proyecto\proyecto\mainproyecto.cpp(1405): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Proyecto.vcxproj -> C:\Users\Luis Martin\Videos\Desarrollo\CompGrafica\MacedaNazarioLuisMartin_Proyecto\Proyecto\Debug\Proyecto.exe
